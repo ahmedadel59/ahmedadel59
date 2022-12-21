@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ahmedadel59
+- 👋 Hi, I’m Ahmed Adel
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail:ahmedyu1259@gmail.com 
 -                    telegram : @Ganagek
 
